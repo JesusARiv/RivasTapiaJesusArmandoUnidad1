@@ -77,4 +77,5 @@
         </main>
     </div>
 </body>
+<script src="{{ asset('lib/sweetalert.js') }}"></script>
 </html>
